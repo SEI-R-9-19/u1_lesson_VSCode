@@ -63,6 +63,8 @@ Take a look at the main UI (**U**ser **I**nterface) layout in the image above. Y
 ### Hot Keys and Shortcuts
 
   ***Open Terminal*** - Quickly open your built-in terminal by hitting <kbd>Ctrl</kbd> + <kbd>`</kbd>
+  
+  ***Wrap Your Code*** - Quickly enable word wrap on your code by hitting <kbd>Opt</kbd> + <kbd>z</kbd>
 
   ***Save*** - Save the file you're working on with <kbd>Cmd</kbd> + <kbd>S</kbd> (sub <kbd>Ctrl</kbd> for <kbd>Cmd</kbd> if using Windows going forward)
 
